@@ -1,0 +1,10 @@
+{
+    "Discord.JS Client Initializer": {
+        "prefix": "jsclient",
+        "body": [
+            "const {Client, Intents} = require(\"discord.js\");",
+            "const client = new Client({intents: [Intents.FLAGS.GUILDS]});"
+        ],
+        "description": "Adds a new Discord.JS client with the Guilds intent."
+    }
+}

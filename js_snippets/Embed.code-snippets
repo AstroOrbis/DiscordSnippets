@@ -1,6 +1,6 @@
 {
     "Discord.JS Message Embed creator": {
-        "prefix": "embed",
+        "prefix": "jsembed",
         "body": [
             "const { MessageEmbed } = require('discord.js');",
             "$0",
