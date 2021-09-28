@@ -22,7 +22,7 @@
             ".setTimestamp()",
             ".setFooter('Some footer text here', 'https://i.imgur.com/AfFp7pu.png');",
             "$0",
-            "channel.send({ embeds: [embed] });"
+            "interaction.reply({ embeds: [embed] });"
         ],
         "description": "Adds a stock Embed with all of the fields defined on the DiscordJS guide."
     }
